@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: a79ad55097294214aaa092acaf6c8ee4
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: 4164767065457893201
+    second: IK Target|Action
+  - first:
+      74: 3684363159226781325
+    second: IK Target|Idle
+  - first:
+      74: 3981765115236211639
+    second: IK Target|Idle.001
+  - first:
+      74: -5672014768473067808
+    second: IK Target|IK Target.002Action
+  - first:
+      74: -4589013199058596961
+    second: IK Target|IK Target.003Action
+  - first:
+      74: 8334938311902317310
+    second: IK Target|IK Target.004Action
+  - first:
+      74: 8967660481729386324
+    second: IK Target|IK Target.005Action
+  - first:
+      74: -3395684839146024817
+    second: IK Target|IK Target.006Action
+  - first:
+      74: 6390681798326889263
+    second: IK Target|IK TargetAction
+  - first:
+      74: 5457679481710216358
+    second: IK Target|Sphere.003Action
+  - first:
+      74: -4982979648739321299
+    second: Sphere.003|Action
+  - first:
+      74: 834473727943661933
+    second: Sphere.003|Idle
+  - first:
+      74: -7552916756512267535
+    second: Sphere.003|Idle.001
+  - first:
+      74: -5969878193544668264
+    second: Sphere.003|IK Target.002Action
+  - first:
+      74: -3269395724250464036
+    second: Sphere.003|IK Target.003Action
+  - first:
+      74: 1741738625218538260
+    second: Sphere.003|IK Target.004Action
+  - first:
+      74: -7525827364118171393
+    second: Sphere.003|IK Target.005Action
+  - first:
+      74: -6133011670050665213
+    second: Sphere.003|IK Target.006Action
+  - first:
+      74: 8126727424792403161
+    second: Sphere.003|IK TargetAction
+  - first:
+      74: 4813486975980345074
+    second: Sphere.003|Sphere.003Action
+  - first:
+      74: 7347177940927086498
+    second: Armature.002|Action
+  - first:
+      74: 5138602965388526686
+    second: Armature.002|Armature.002Action
+  - first:
+      74: -4187070084771750883
+    second: Armature.002|Idle
+  - first:
+      74: -893256397472906387
+    second: Armature.002|Idle.001
+  - first:
+      74: -2624817338213749748
+    second: Armature.002|IK Target.002Action
+  - first:
+      74: -6342892850849637006
+    second: Armature.002|IK Target.003Action
+  - first:
+      74: -6029124752236659423
+    second: Armature.002|IK Target.004Action
+  - first:
+      74: 2459115945645521016
+    second: Armature.002|IK Target.005Action
+  - first:
+      74: -3840159275404890283
+    second: Armature.002|IK Target.006Action
+  - first:
+      74: 8387175390308582320
+    second: Armature.002|IK TargetAction
+  - first:
+      74: 292065227912937086
+    second: Armature.002|Sphere.003Action
+  - first:
+      74: -2835607025405662413
+    second: IK Target.002|Action
+  - first:
+      74: 2489879801390799180
+    second: IK Target.002|Idle.001
+  - first:
+      74: -7430517208414298948
+    second: IK Target.002|IK Target.002Action
+  - first:
+      74: -8687257027853104310
+    second: IK Target.002|IK Target.003Action
+  - first:
+      74: 8590304430868333426
+    second: IK Target.002|IK Target.004Action
+  - first:
+      74: -2024095443568783784
+    second: IK Target.002|IK Target.005Action
+  - first:
+      74: 1772321347333152845
+    second: IK Target.002|IK Target.006Action
+  - first:
+      74: 5634952758143241797
+    second: IK Target.002|IK TargetAction
+  - first:
+      74: 1501074586697608823
+    second: IK Target.002|Sphere.003Action
+  - first:
+      74: -1597515455340520330
+    second: IK Target.003|Action
+  - first:
+      74: 7876970742603368259
+    second: IK Target.003|Idle.001
+  - first:
+      74: 3877542966559364763
+    second: IK Target.003|IK Target.002Action
+  - first:
+      74: 4932821552127433410
+    second: IK Target.003|IK Target.003Action
+  - first:
+      74: -2431906395606946857
+    second: IK Target.003|IK Target.004Action
+  - first:
+      74: -3384603217594503497
+    second: IK Target.003|IK Target.005Action
+  - first:
+      74: -2320394873751064846
+    second: IK Target.003|IK Target.006Action
+  - first:
+      74: -330616215348149914
+    second: IK Target.003|IK TargetAction
+  - first:
+      74: -1522539747713557243
+    second: IK Target.003|Sphere.003Action
+  - first:
+      74: -6657844292467981019
+    second: Armature.004|Action
+  - first:
+      74: 4867429941484902380
+    second: Armature.004|Armature.002Action
+  - first:
+      74: 2263333045268041191
+    second: Armature.004|Idle
+  - first:
+      74: 4716321232033870699
+    second: Armature.004|Idle.001
+  - first:
+      74: 8581075435681982025
+    second: Armature.004|IK Target.002Action
+  - first:
+      74: -1173098972731637138
+    second: Armature.004|IK Target.003Action
+  - first:
+      74: 3498130818572813974
+    second: Armature.004|IK Target.004Action
+  - first:
+      74: 1881810360577926466
+    second: Armature.004|IK Target.005Action
+  - first:
+      74: 7519801277722977677
+    second: Armature.004|IK Target.006Action
+  - first:
+      74: 7236249223150900277
+    second: Armature.004|IK TargetAction
+  - first:
+      74: -7573876995019225592
+    second: Armature.004|Sphere.003Action
+  - first:
+      74: -3415369525935219107
+    second: IK Target.004|Action
+  - first:
+      74: 2341151110558533493
+    second: IK Target.004|Idle.001
+  - first:
+      74: -1904376468438319917
+    second: IK Target.004|IK Target.002Action
+  - first:
+      74: -8813742113637267118
+    second: IK Target.004|IK Target.003Action
+  - first:
+      74: -3464267150374855283
+    second: IK Target.004|IK Target.004Action
+  - first:
+      74: -8962912102649616031
+    second: IK Target.004|IK Target.005Action
+  - first:
+      74: -3385880289864600007
+    second: IK Target.004|IK Target.006Action
+  - first:
+      74: -9128337028766770876
+    second: IK Target.004|IK TargetAction
+  - first:
+      74: 7795720059709914627
+    second: IK Target.004|Sphere.003Action
+  - first:
+      74: 2213130339913262498
+    second: Armature.005|Action
+  - first:
+      74: 7693348722931728473
+    second: Armature.005|Armature.002Action
+  - first:
+      74: -1020758093861955191
+    second: Armature.005|Idle
+  - first:
+      74: -1623131760614085276
+    second: Armature.005|Idle.001
+  - first:
+      74: 3339612406051096378
+    second: Armature.005|IK Target.002Action
+  - first:
+      74: -5855726029403270579
+    second: Armature.005|IK Target.003Action
+  - first:
+      74: 2211710978757521845
+    second: Armature.005|IK Target.004Action
+  - first:
+      74: 4684033780895773453
+    second: Armature.005|IK Target.005Action
+  - first:
+      74: 4604853586388051521
+    second: Armature.005|IK Target.006Action
+  - first:
+      74: -8784050089821921870
+    second: Armature.005|IK TargetAction
+  - first:
+      74: -1660127778913877243
+    second: Armature.005|Sphere.003Action
+  - first:
+      74: -6797608513303485844
+    second: IK Target.005|Action
+  - first:
+      74: -1755829829016701655
+    second: IK Target.005|Idle.001
+  - first:
+      74: 1407571880797284878
+    second: IK Target.005|IK Target.002Action
+  - first:
+      74: -2280715173707747771
+    second: IK Target.005|IK Target.003Action
+  - first:
+      74: 7053119779249790608
+    second: IK Target.005|IK Target.004Action
+  - first:
+      74: 7103686847194251646
+    second: IK Target.005|IK Target.005Action
+  - first:
+      74: -1339199796073217873
+    second: IK Target.005|IK Target.006Action
+  - first:
+      74: -669552403823724040
+    second: IK Target.005|IK TargetAction
+  - first:
+      74: -3068914629917063055
+    second: IK Target.005|Sphere.003Action
+  - first:
+      74: 5155793766788158854
+    second: IK Target.006|Action
+  - first:
+      74: -3469501505257740039
+    second: IK Target.006|Idle.001
+  - first:
+      74: -2513834770641521297
+    second: IK Target.006|IK Target.002Action
+  - first:
+      74: 8351587932653067542
+    second: IK Target.006|IK Target.003Action
+  - first:
+      74: -2589778698503776150
+    second: IK Target.006|IK Target.004Action
+  - first:
+      74: 7398550688402282466
+    second: IK Target.006|IK Target.005Action
+  - first:
+      74: 4015186431097175308
+    second: IK Target.006|IK Target.006Action
+  - first:
+      74: 4014192577465226306
+    second: IK Target.006|IK TargetAction
+  - first:
+      74: -7483898105075896752
+    second: IK Target.006|Sphere.003Action
+  - first:
+      74: 3676137836990729113
+    second: BezierCircle.003|Action
+  - first:
+      74: 8271492316066346853
+    second: BezierCircle.003|Idle
+  - first:
+      74: -8827474419027713860
+    second: BezierCircle.003|Idle.001
+  - first:
+      74: -7994147416279968578
+    second: BezierCircle.003|IK Target.002Action
+  - first:
+      74: 4371446815410056425
+    second: BezierCircle.003|IK Target.003Action
+  - first:
+      74: -6596066607605568253
+    second: BezierCircle.003|IK Target.004Action
+  - first:
+      74: -268291377989524144
+    second: BezierCircle.003|IK Target.005Action
+  - first:
+      74: 5061991353586217601
+    second: BezierCircle.003|IK Target.006Action
+  - first:
+      74: -3117522133310234255
+    second: BezierCircle.003|IK TargetAction
+  - first:
+      74: -4088094844793782650
+    second: BezierCircle.003|Sphere.003Action
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
